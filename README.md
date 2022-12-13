@@ -88,4 +88,28 @@ Exemplo: **Lista dia da semnana que estudei a linguagem Markdown**
  
  [lInk do meu perfil no GitHub](https://github.com/AlexPRGG)
  
+ ### Tabelas  
+ * Para crias as colunas basta colocar o nome de caluna e dividilas com barra em pé. 
+ *  Logo em seguida para criar a barra de divisão da tabela utiliza-se: ---|---|--- .
+ *  Já para adicionar cada dado da tabela, basta adicionar os dados abaixo de cada campo correspondente e dividí-los com a barra em pé.   
+ 
+  Exemplo:     
+   
+ Nom|Ide|Ano                                 ~~Pórem deve ter o espaço entre as barras!~~    
+              ---|---|---   
+              Álex | 19 | 2022        
+         
+ **TABELA**
+ 
+ Nome | Idade | Sexo
+ --- | --- | ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
