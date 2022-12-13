@@ -60,19 +60,32 @@ Exemplo de lista Demarcada: Asterisco. nomedalista
 
 BOA NOITE
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dando continuidade agora com a lista de tarefas:   
+Utiliza-se o  ' - [ ] ' e na frente o nome desejado.    
+Exemplo: **Lista dia da semnana que estudei a linguagem Markdown**  
+ - [x] SEG  
+ - [X] TER *Para marcar basta utilizar colocar o X dentro*
+ - [ ] QUAR
+ - [ ] QUIN
+ - [ ] SEX
+ - [ ] SAB
+ - [ ] DOM
+ 
+ ### Adicionando imagens/link
+ 1. Passo1:
+ * Escolhe a imagem (Recomendo que imagem tenha tamanho no max 500px)   
+ * Logo em seguida arrasta a imagem para essa barra de baixo onde tem:   
+   (Attach files by dragging & dropping, selecting or pasting them.)
+      [Tudo que está entre os colchetes é a descrisão da imagem]  
+      
+ 1.Passo1Link:
+  * Crie os colchetes, logo em seguida utiliza-se os parênteses [Dentro deles coloque a descrisão quedeseja](Dentro dele coloca-se a URL do site que você deseja inserir)    
+  Obs: Olink não tem a '!' no início.
+  
+ Exemplo:Imagem juntamente com link:    
+ 
+ ![Githubinho](https://user-images.githubusercontent.com/119551499/207293107-028ea52e-0a35-42ff-ab85-2b8e695497eb.png) 
+ 
+ [lInk do meu perfil no GitHub](https://github.com/AlexPRGG)
+ 
  
