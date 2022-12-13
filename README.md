@@ -103,9 +103,10 @@ Exemplo: **Lista dia da semnana que estudei a linguagem Markdown**
  
  Nome | Idade | Sexo
  --- | --- | ---
- 
- 
- 
+ Jão | 21 | M
+Augusto | 18 | M 
+Letícia | 23 | F
+Carla | 18 | F
  
  
  
