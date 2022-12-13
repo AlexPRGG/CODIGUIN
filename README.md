@@ -108,6 +108,26 @@ Augusto | 18 | M
 Letícia | 23 | F
 Carla | 18 | F
  
+ ***Para transforma em código se utiliza três ```***     
+ Exemplo:
+ 
+ ```
+ num = int(input("Digite qualquer valor")   
+  if num > 4 == 0:
+ print(f´O valor {num} é par')
+   else:
+   
+  ````
+ ### Emoji
+ 
+ Coloca apenas os dois pontos ':'   
+ 
+ Exemplo: Aqui tem um emoji de um mão :vulcan_salute:  
+ 
+ Para ter acesso aos códigos do emoji, basta acessar: [Link do github da 'ika'](https://github.com/ikatyang)
+ 
+ 
+ 
  
  
  
