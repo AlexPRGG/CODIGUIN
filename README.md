@@ -36,16 +36,33 @@ Exemplo: Com duas linhas. A linha do asterisco é mais grossa.
 
 No caso da lista basta colocar qualquer número no início e logo em seguida o (ponto".") e nome que deseja colocar na lista. 
 
-Exemplo de lista numerada: Qualquernum.nomedalista    
+Exemplo de lista Numerada: Qualquernum. nomedalista    
 **Lista de dias da semana:**  
 
-2.SEG
-6. TER
-6. QUAR
-7. QUIN
-7. SEX
+1. SEG
+9. TER
+9. QUAR
+9. QUIN
+9. SEX
 9. SAB
-9. DOM
+9. DOM  
+
+Exemplo de lista Demarcada: Asterisco. nomedalista    
+**Lista de dias da semana:**
+
+* SEG
+* TER
+   * QUAR- Para deixar assim, é necessário dar 3espaços antes e dEpois "Asterisco. nomedalista"
+   * QUIN
+* SEX
+* SAB
+* DOM
+
+
+
+
+
+
 
 
 
