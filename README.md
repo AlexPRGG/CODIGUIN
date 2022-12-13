@@ -120,12 +120,14 @@ Carla | 18 | F
   ````
  ### Emoji
  
- Coloca apenas os dois pontos ':'   
+ Coloca apenas os dois pontos e o código do emoji ':'   
  
  Exemplo: Aqui tem um emoji de um mão :vulcan_salute:  
  
- Para ter acesso aos códigos do emoji, basta acessar: [Link do github da 'ika'](https://github.com/ikatyang)
+ Para ter acesso aos códigos dos emojis, basta acessar: [Link do github da 'ika'](https://github.com/ikatyang)  
+ Lá você pode acessar o repositório " emoji-cheat-sheet "  e lá encontrará os códigos. :hand:
  
+ * Para colocar em títulos de "issues, repositórios e etc, vai no site: [Emojipedia](https://emojipedia.org/)
  
  
  
